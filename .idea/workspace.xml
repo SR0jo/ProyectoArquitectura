@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22b4f52b-00f7-4f77-8964-c8ce78214c82" name="Changes" comment="primer comit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteSwing.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteSwing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaCrearEnPendrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaCrearEnPendrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaLecturaDeArchivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaLecturaDeArchivos.java" afterDir="false" />
     </list>
-    <list id="808d4b9a-1ece-4120-842b-cce6ee6bdb12" name="Changes by pc" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list id="808d4b9a-1ece-4120-842b-cce6ee6bdb12" name="Changes by pc" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,6 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "D:/IDE/IntellijProjects/PracticaHilos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +69,10 @@
       <option name="presentableId" value="Default" />
       <updated>1686769316911</updated>
       <workItem from="1686769317917" duration="5361000" />
+      <workItem from="1686827617531" duration="601000" />
+      <workItem from="1686840912895" duration="1162000" />
+      <workItem from="1686940596166" duration="446000" />
+      <workItem from="1686948935389" duration="6575000" />
     </task>
     <task id="LOCAL-00001" summary="primer comit">
       <created>1686769403354</created>
@@ -88,5 +90,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer comit" />
     <option name="LAST_COMMIT_MESSAGE" value="primer comit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PruebaPendriveConHilo.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="roots" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -8,7 +8,7 @@ public class  PruebaLecturaDeArchivos {
         try{
             file.createNewFile();
         }catch(IOException e){
-            System.out.println("Pelotudo");
+            System.out.println("Fallo");
         }
         System.out.println(file.getAbsolutePath());
     }
